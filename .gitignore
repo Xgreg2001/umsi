@@ -3,3 +3,4 @@ logs/*
 checkpoints/*
 images/*
 recyclable_materials/*
+*.keras
